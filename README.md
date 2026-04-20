@@ -1,5 +1,5 @@
 
-# Particle-Simulation
+# Particle Simulation
 
 A simple particle simulation made with Raylib and C.
 
