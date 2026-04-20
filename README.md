@@ -3,6 +3,8 @@
 
 A simple particle simulation made with Raylib and C.
 
+Use the arrow keys to add or delete particles.
+
 ## Preview
 
 ![](/preview.gif)
