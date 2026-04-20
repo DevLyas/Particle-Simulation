@@ -5,7 +5,7 @@ A simple particle simulation made with Raylib and C.
 
 ## Preview
 
-![](/preview.mp4)
+![](/preview.gif)
 
 ## Dependencies
 
